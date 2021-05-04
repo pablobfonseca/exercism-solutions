@@ -3,3 +3,4 @@ node_modules
 .bsb.lock
 npm-debug.lock
 elm-stuff
+.byebug_history
